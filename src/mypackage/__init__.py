@@ -1,1 +1,1 @@
-from .functions import add
+from .functions import add, minus
